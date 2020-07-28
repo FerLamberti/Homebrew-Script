@@ -28,11 +28,5 @@ brew cask install zoomus
 # Error en el paquete de Chrome(brew cask install google-chrome)
 brew cask install firefox
 
-# File Storage
-#brew cask install google-drive-file-stream
-
 # Entretenimiento
-#brew cask install spotify
-
-
-#Loop while there are still package installed while [[ `brew list | wc -l` -ne 0 ]]; do #Interate over each installed package for EACH in `brew list`; do #Uninstall each package brew uninstall $EACH --force done done 
+brew cask install spotify
