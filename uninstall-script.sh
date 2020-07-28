@@ -21,6 +21,8 @@ echo "Desinstalando Homebrew..."
 
 echo "Borrando archivos basura..."
 
+sudo rm -R /usr/local/Caskroom
+sudo rm -R /usr/local/Cellar
 sudo rm -R /usr/local/.com.apple.installer.keep
 sudo rm -R /usr/local/Frameworks
 sudo rm -R /usr/local/Homebrew
