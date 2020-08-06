@@ -21,6 +21,11 @@ brew uninstall --force warrensbox/tap/tfswitch
 #terragrunt
 brew uninstall --force warrensbox/tap/tgswitch
 brew uninstall --force python3
+brew uninstall --force go
+brew cask uninstall --force kitematic
+#pide confirmación
+pip uninstall --user localstack
+brew uninstall nose
 
 # Desinstalación de HomeBrew
 echo "Desinstalando Homebrew..."
