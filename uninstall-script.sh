@@ -14,6 +14,13 @@ brew cask uninstall --force cyberduck
 brew cask uninstall --force slack
 brew cask uninstall --force zoomus
 brew cask uninstall --force firefox
+brew cask uninstall --force forticlient
+brew cask uninstall --force dashlane
+#terraform
+brew uninstall --force warrensbox/tap/tfswitch
+#terragrunt
+brew uninstall --force warrensbox/tap/tgswitch
+brew uninstall --force python3
 
 # Desinstalación de HomeBrew
 echo "Desinstalando Homebrew..."
