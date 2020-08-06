@@ -32,13 +32,8 @@ brew cask install firefox
 brew cask install spotify
 
 #agregadas 06/08
-
-brew casks forticlient
-
-brew casks dashlane
-
+brew cask install forticlient
+brew cask install dashlane
 brew install warrensbox/tap/tfswitch
-
 brew install warrensbox/tap/tgswitch
-
 brew install python3
