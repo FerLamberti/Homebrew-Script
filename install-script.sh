@@ -30,3 +30,15 @@ brew cask install firefox
 
 # Entretenimiento
 brew cask install spotify
+
+#agregadas 06/08
+
+brew casks forticlient
+
+brew casks dashlane
+
+brew install warrensbox/tap/tfswitch
+
+brew install warrensbox/tap/tgswitch
+
+brew install python3
