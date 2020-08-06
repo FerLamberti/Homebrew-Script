@@ -39,8 +39,8 @@ brew install warrensbox/tap/tgswitch
 brew install python3
 brew install go
 brew cask install kitematic
-sudo easy_install pip
-pip install --user localstack
-brew install nose
+pip3 install --user localstack
+#sudo easy_install pip
+#pip install --user localstack
 #AWS services
 SERVICES=sqs,ec2 localstack start
