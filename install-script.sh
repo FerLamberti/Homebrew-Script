@@ -18,29 +18,21 @@ brew cask install visual-studio-code
 brew cask install github
 brew cask install docker
 brew cask install cyberduck
-
-# Apps de comunicación
-brew cask install slack
-# Zoom pide contraseña Admin
-brew cask install zoomus
-
-# Herramientas Web
-# Error en el paquete de Chrome(brew cask install google-chrome)
-brew cask install firefox
-
-# Entretenimiento
-brew cask install spotify
-
-#agregadas 06/08
-brew cask install forticlient
-brew cask install dashlane
 brew install warrensbox/tap/tfswitch
 brew install warrensbox/tap/tgswitch
 brew install python3
 brew install go
-brew cask install kitematic
 pip3 install --user localstack
-#sudo easy_install pip
-#pip install --user localstack
-#AWS services
-SERVICES=sqs,ec2 localstack start
+
+#Gestor de credenciales
+brew cask install dashlane
+
+# Apps de comunicación
+brew cask install slack
+
+# Herramientas Web
+brew cask install google-chrome
+brew cask install firefox
+
+# Entretenimiento
+brew cask install spotify
