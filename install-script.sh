@@ -36,3 +36,6 @@ brew cask install firefox
 
 # Entretenimiento
 brew cask install spotify
+
+brew bundle dump
+brew doctor
