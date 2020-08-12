@@ -12,20 +12,18 @@ brew cask uninstall --force github
 brew cask uninstall --force docker
 brew cask uninstall --force cyberduck
 brew cask uninstall --force slack
-brew cask uninstall --force zoomus
+brew cask uninstall --force google-chrome
 brew cask uninstall --force firefox
-brew cask uninstall --force forticlient
 brew cask uninstall --force dashlane
+brew cask uninstall --force spotify
+pip3 uninstall --user localstack
 #terraform
 brew uninstall --force warrensbox/tap/tfswitch
 #terragrunt
 brew uninstall --force warrensbox/tap/tgswitch
+
 brew uninstall --force python3
 brew uninstall --force go
-brew cask uninstall --force kitematic
-#pide confirmación
-pip uninstall --user localstack
-brew uninstall nose
 
 # Desinstalación de HomeBrew
 echo "Desinstalando Homebrew..."
