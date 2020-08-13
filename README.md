@@ -27,8 +27,9 @@ Procedimiento:
 --------------
 
 Una vez copiado el archivo: install-script.sh en el equipo, se debe abrir un terminal, posicionarse en la ubicación en donde fue guardado y brindar permisos de ejecución mediante "chmod":
-
+````
 $ chmod +x ./install-script.sh
+````
 
 Luego ejecutar:
 
