@@ -1,6 +1,5 @@
 Homebrew-Script
 ---------------
----------------
 
 Script en Bash para la instalación automatizada de apps con Homebrew
 
@@ -11,13 +10,13 @@ excluyendo las configuraciones de usuario propias y extensiones de navegadores.
 Requerimientos:
 ---------------
 
-macOS Catalina (10.15)
-macOS Mojave (10.14)
-macOS High Sierra (10.13)
-macOS Sierra (10.12)
-OS X El Capitan (10.11)
-OS X Yosemite (10.10)
-OS X Mavericks (10.9)
+* macOS Catalina (10.15)
+* macOS Mojave (10.14)
+* macOS High Sierra (10.13)
+* macOS Sierra (10.12)
+* OS X El Capitan (10.11)
+* OS X Yosemite (10.10)
+* OS X Mavericks (10.9)
 
 Instalación:
 ------------
