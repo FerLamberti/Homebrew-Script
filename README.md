@@ -27,9 +27,11 @@ Procedimiento:
 --------------
 
 Una vez copiado el archivo: install-script.sh en el equipo, se debe abrir un terminal, posicionarse en la ubicación en donde fue guardado y brindar permisos de ejecución mediante "chmod":
+
 $ chmod +x ./install-script.sh
 
 Luego ejecutar:
+
 $ ./install-script.sh
 
 Al principio solicitará credenciales de admin del equipo, para luego avanzar sin volver a pedir interacción hasta finalizar.
@@ -64,9 +66,11 @@ Procedimiento:
 --------------
 
 Se debe copiar el archivo: uninstall-script.sh en el equipo, abrir un terminal, posicionarse en la ubicación en donde fue guardado y brindar permisos de ejecución mediante "chmod":
+
 $ chmod +x ./uninstall-script.sh
 
 Luego ejecutar:
+
 $ uninstall-script.sh
 
 Información adicional:
